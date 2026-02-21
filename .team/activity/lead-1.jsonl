@@ -1,1 +1,2 @@
 {"id":"evt-1771716614560-ch66","timestamp":"2026-02-21T23:30:14.560Z","event_type":"agent_registered","agent_id":"lead-1","details":{"role":"lead","product":"verify-adopt-test"}}
+{"id":"evt-1771716645460-tv9c","timestamp":"2026-02-21T23:30:45.460Z","event_type":"directive_acknowledged","agent_id":"lead-1","details":{"directive_id":"evt-1771716626278-r7a4","action":"context_update","urgency":"interrupt"}}
