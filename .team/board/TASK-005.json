@@ -1,0 +1,13 @@
+{
+  "id": "TASK-005",
+  "type": "task",
+  "title": "Add linting and code formatting",
+  "description": "Configure ESLint with a standard ruleset and Prettier for formatting. Add lint and format scripts to package.json. Add pre-commit hook with husky + lint-staged if appropriate. Fix any existing lint issues.",
+  "status": "backlog",
+  "priority": "medium",
+  "depends_on": [],
+  "required_role": "developer",
+  "claimed_by": null,
+  "created_at": "2026-02-21T23:32:48.237Z",
+  "created_by": "lead-1"
+}

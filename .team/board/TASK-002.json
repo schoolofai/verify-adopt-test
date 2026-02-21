@@ -1,0 +1,13 @@
+{
+  "id": "TASK-002",
+  "type": "task",
+  "title": "Set up CI/CD with GitHub Actions",
+  "description": "Create .github/workflows/ci.yml with: lint, test, build steps. Run on push and PR to main. Add basic test script that passes. Ensure pipeline is green before any feature work.",
+  "status": "ready",
+  "priority": "high",
+  "depends_on": [],
+  "required_role": "developer",
+  "claimed_by": null,
+  "created_at": "2026-02-21T23:32:48.121Z",
+  "created_by": "lead-1"
+}

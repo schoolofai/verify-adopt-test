@@ -1,0 +1,13 @@
+{
+  "id": "TASK-001",
+  "type": "task",
+  "title": "Project scaffolding: package.json, dependencies, folder structure",
+  "description": "Set up proper package.json with scripts (start, test, lint, build). Add dependencies: express or fastify (web framework), eslint, prettier, jest/vitest. Create folder structure: src/, tests/, docs/. Add .gitignore, .eslintrc, .prettierrc. Make index.js a proper entry point.",
+  "status": "ready",
+  "priority": "high",
+  "depends_on": [],
+  "required_role": "developer",
+  "claimed_by": null,
+  "created_at": "2026-02-21T23:32:48.084Z",
+  "created_by": "lead-1"
+}

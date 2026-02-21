@@ -1,0 +1,13 @@
+{
+  "id": "TASK-006",
+  "type": "task",
+  "title": "Create CONTRIBUTING.md and developer docs",
+  "description": "Write CONTRIBUTING.md with: how to set up dev environment, coding standards, PR process, commit message format. Create docs/ folder with architecture overview placeholder.",
+  "status": "backlog",
+  "priority": "medium",
+  "depends_on": [],
+  "required_role": "content-writer",
+  "claimed_by": null,
+  "created_at": "2026-02-21T23:32:48.276Z",
+  "created_by": "lead-1"
+}

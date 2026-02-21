@@ -1,0 +1,13 @@
+{
+  "id": "TASK-003",
+  "type": "task",
+  "title": "Write comprehensive README",
+  "description": "Rewrite README.md with proper sections: project description, prerequisites, installation, usage, development setup, testing, contributing guidelines, license. Include badges for CI status. Make it clear and developer-friendly.",
+  "status": "ready",
+  "priority": "high",
+  "depends_on": [],
+  "required_role": "content-writer",
+  "claimed_by": null,
+  "created_at": "2026-02-21T23:32:48.158Z",
+  "created_by": "lead-1"
+}

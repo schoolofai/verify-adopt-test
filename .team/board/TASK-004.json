@@ -1,0 +1,13 @@
+{
+  "id": "TASK-004",
+  "type": "task",
+  "title": "Create test infrastructure and initial test suite",
+  "description": "Set up testing framework (Jest or Vitest, match developer choice). Create test directory structure. Write initial tests for whatever exists in index.js. Add test coverage configuration. Ensure npm test works end-to-end.",
+  "status": "ready",
+  "priority": "high",
+  "depends_on": [],
+  "required_role": "qa",
+  "claimed_by": null,
+  "created_at": "2026-02-21T23:32:48.197Z",
+  "created_by": "lead-1"
+}
